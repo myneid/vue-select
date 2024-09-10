@@ -4,6 +4,7 @@
     "description": "Everything you wish the HTML <select> element could do, wrapped up into a lightweight, extensible Vue component.",
     "author": "Jeff Sagal <sagalbot@gmail.com>",
     "homepage": "https://vue-select.org",
+    "type": "module",
     "directories": {
         "doc": "docs",
         "test": "tests"
